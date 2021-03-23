@@ -4,8 +4,7 @@ Hello! I'm Eric from Washington, DC.
 <br />
 Check out my portfolio site: [here]
 
-
-Here are some ideas to get you started:
+---
 
 - 🌱 I’m constantly learning everything related to React and React Native
 - 👯 I’m looking to collaborate with other developers
