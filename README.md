@@ -9,7 +9,7 @@ Check out my portfolio site: [here]
 - 🌱 I’m constantly learning everything related to React and React Native
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about anything....Life....Code....Sports....Traveling
-- 📫 How to reach me: Email: eric.washington.me@gmail.com
+- 📫 How to reach me: eric.washington.me@gmail.com
 - 🥅 2021 Goals: Build useful web apps that make people's lives more efficient and better!
 - ⚡ Fun fact: I've been to every continent except Anartica
 
