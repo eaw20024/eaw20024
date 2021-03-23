@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hello! I'm Eric from Washington, DC.
+Hi, I'm Eric Washington, a passionate self-taught Full Stack Developer from Washington, DC.
 <br />
 Check out my portfolio site: [here]
 
