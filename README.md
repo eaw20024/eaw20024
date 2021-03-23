@@ -13,8 +13,6 @@ Check out my portfolio site: [here]
 - 🥅 2021 Goals: Build useful web apps that make people's lives more efficient and better!
 - ⚡ Fun fact: I've been to every continent except Anartica
 
-<br />
-
 ### Let's connect:
 
 [<img align="left" alt="Eric Washington | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
