@@ -14,6 +14,7 @@ Check out my portfolio site: [here]
 - ⚡ Fun fact: I've been to every continent except Anartica
 
 <br />
+
 ### Let's connect:
 
 [<img align="left" alt="Eric Washington | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
