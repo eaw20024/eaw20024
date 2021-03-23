@@ -4,8 +4,6 @@ Hello! I'm Eric from Washington, DC.
 <br />
 Check out my portfolio site: [here]
 
-<!--
-**eaw20024/eaw20024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email: eric.washington.me@gmail.com
 - - 🥅 2021 Goals: Build useful web apps that make people's lives more efficient and better!
 - ⚡ Fun fact: I've been to every continent except for Anartica
--->
+
 
 <br />
 ---
