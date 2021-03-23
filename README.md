@@ -13,9 +13,8 @@ Check out my portfolio site: [here]
 - 🥅 2021 Goals: Build useful web apps that make people's lives more efficient and better!
 - ⚡ Fun fact: I've been to every continent except Anartica
 
-
 <br />
----
+
 
 ### Let's connect:
 
