@@ -40,8 +40,9 @@ Check out my portfolio site: [here]
 
 ---
 
-<!-- BLOG-POST-LIST:END -->
-
 [here]: http://www.ericwashington.me
 [linkedin]: http://www.linkedin.com/in/eric-washington-6375b021/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaw20024)](https://github.com/anuraghazra/github-readme-stats)
+
 
