@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:END -->
 
-[here]: https://www.ericwashington.me
-[linkedin]: https://www.linkedin.com/in/eric-washington-6375b021/
+[here]: http://www.ericwashington.me
+[linkedin]: http://www.linkedin.com/in/eric-washington-6375b021/
 
