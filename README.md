@@ -6,12 +6,12 @@ Check out my portfolio site: [here]
 
 ---
 
-- 🌱 I’m constantly learning everything related to React and React Native
+- 🌱 I’m constantly learning everything related to Javascript
 - 🧍 I’m looking to collaborate with other developers
 - 💬 Ask me about anything....Life....Code....Sports....Traveling
 - 📫 How to reach me: eric.washington.me@gmail.com
 - 🥅 2021 Goals: Build useful web apps that make people's lives more efficient and better!
-- 📝 [Resume](https://drive.google.com/file/d/18OD3rnaz_5uzmxYIzkjP5ox-bSM1-beJ/view?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/1fLmKu9h-GFvVjrj2poSlE7bDd-YWOuLO/edit?usp=sharing&ouid=116523999429887982089&rtpof=true&sd=true)
 - ⚡ Fun fact: I've traveled to every continent except Anartica
 
 ### Let's connect:
