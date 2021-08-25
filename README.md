@@ -11,7 +11,7 @@ Check out my portfolio site: [here]
 - 💬 Ask me about anything....Life....Code....Sports....Traveling
 - 📫 How to reach me: eric.washington.me@gmail.com
 - 🥅 2021 Goals: Build useful web apps that make people's lives more efficient and better!
-- 📝 [Resume](https://docs.google.com/document/d/1fLmKu9h-GFvVjrj2poSlE7bDd-YWOuLO/edit?usp=sharing&ouid=116523999429887982089&rtpof=true&sd=true)
+- 📝 [Resume](https://drive.google.com/file/d/1WWQ4FAxnKqZoIWClkgzV2BH_wLLl36pw/view?usp=sharing)
 - ⚡ Fun fact: I've traveled to every continent except Anartica
 
 ### Let's connect:
