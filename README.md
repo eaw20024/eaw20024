@@ -6,7 +6,7 @@ Check out my portfolio site: [here]
 
 ---
 
-- 🌱 I’m constantly learning everything related Product Design 
+- 🌱 I’m constantly learning everything related to Product Design 
 - 🧍 I’m looking to collaborate with other developers, and designers. 
 - 💬 Ask me about anything....Life....Design....Code....Sports....Traveling
 - 📫 How to reach me: eric.washington.me@gmail.com
@@ -33,6 +33,8 @@ Check out my portfolio site: [here]
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="26px" alt="Figma" src="https://user-images.githubusercontent.com/8358989/197460462-ee945aa8-04bc-475f-a54d-3a0bf0f5749c.png">
+<img align="left" width="26px" alt="AdobeXD" src="https://user-images.githubusercontent.com/8358989/197460650-6edb55fc-5d0d-4c0f-ac4c-cc31f6978e34.png">
 
 <br />
 
