@@ -1,17 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Eric Washington, a passionate self-taught Full Stack Developer from Washington, DC.
+Hi, I'm Eric Washington, a passionate self-taught Full Stack Developer turned UI/UX Designer from Washington, DC.
 <br />
 Check out my portfolio site: [here]
 
 ---
 
-- 🌱 I’m constantly learning everything related to Javascript
-- 🧍 I’m looking to collaborate with other developers
-- 💬 Ask me about anything....Life....Code....Sports....Traveling
+- 🌱 I’m constantly learning everything related Product Design 
+- 🧍 I’m looking to collaborate with other developers, and designers. 
+- 💬 Ask me about anything....Life....Design....Code....Sports....Traveling
 - 📫 How to reach me: eric.washington.me@gmail.com
-- 🥅 2021 Goals: Build useful web apps that make people's lives more efficient and better!
-- 📝 [Resume](https://drive.google.com/file/d/1H92JMNz7qPwWNs4eHkr57LJLvJgRVWW7/view?usp=sharing)
+- 🥅 2022 Goals: Build useful apps and experiences that make people's lives more efficient and better!
 - ⚡ Fun fact: I've traveled to every continent except Anartica
 
 ### Let's connect:
@@ -39,7 +38,7 @@ Check out my portfolio site: [here]
 
 ---
 
-[here]: http://www.ericwashington.me
+[here]: https://dribbble.com/eaw5117
 [linkedin]: http://www.linkedin.com/in/eric-washington-6375b021/
 
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaw20024&theme=default&show_icons=true)
