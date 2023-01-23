@@ -1,12 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Eric Washington, a passionate self-taught Full Stack Developer turned UI/UX Designer from Washington, DC.
+Hi, I'm Eric Washington, a passionate self-taught Software Engineer from Washington, DC.
 <br />
-Check out my portfolio site: [here]
 
 ---
 
-- 🌱 I’m constantly learning everything related to Product Design 
+<!-- - 🌱 I’m constantly learning everything related to Product Design  -->
 - 🧍 I’m looking to collaborate with other developers, and designers. 
 - 💬 Ask me about anything....Life....Design....Code....Sports....Traveling
 - 📫 How to reach me: eric.washington.me@gmail.com
