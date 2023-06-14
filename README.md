@@ -42,8 +42,8 @@ Hi, I'm Eric Washington, a passionate Software Engineer from Washington, DC.
 [here]: https://dribbble.com/eaw5117
 [linkedin]: http://www.linkedin.com/in/eric-washington-6375b021/
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaw20024&theme=default&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaw20024&layout=compact)](https://github.com/eaw20024/github-readme-stats)
+<!-- ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaw20024&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaw20024&layout=compact)](https://github.com/eaw20024/github-readme-stats) -->
 
 
 
