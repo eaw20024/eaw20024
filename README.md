@@ -9,7 +9,7 @@ Hi, I'm Eric Washington, a passionate Senior Software Engineer from Washington, 
 <!-- - 🧍 I’m looking to collaborate with other developers, and designers. -->
 - 💬 Ask me about anything....Life....Design....Code....Sports....Traveling
 - 📫 How to reach me: eric.washington.me@gmail.com
-- 🥅 2025 Goals: Build useful apps and experiences that make people's lives more efficient and better!
+- 🥅 2026 Goals: Build useful apps and experiences that make people's lives more efficient and better!
 - ⚡ Fun fact: I've traveled to every continent except Antartica
 
 ### Let's connect:
